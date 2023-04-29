@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small fast paced java based Tetris game. This was my University coursework, but with few 
+This is a small fast paced java based version of Tetris game. This was my University coursework, but with few 
 tweaks it is now very good. I have removed university server for multiplayer and will add my own 
 server soon.
 
