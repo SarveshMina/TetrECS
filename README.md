@@ -1,4 +1,4 @@
-# Tetris by Sarvesh
+# TetrECS a Tetrics based game by Sarvesh
 
 ## Description
 
