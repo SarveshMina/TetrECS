@@ -1,33 +1,57 @@
-# TetrECS a Tetrics based game by Sarvesh
+# TetrECS - A Tetris-Based Game
 
 ## Description
-
-This is a small fast paced java based version of Tetris game. This was my University coursework, but with few 
-tweaks it is now very good. I have removed university server for multiplayer and will add my own 
-server soon.
+TetrECS is a fast-paced Java-based version of the classic Tetris game. Originally developed as part of a university coursework project, the game has been improved with several tweaks. The previous university server used for multiplayer has been removed, and a new custom server will be added soon.
 
 ## Getting Started
 
 ### Dependencies
+- **JavaFX**
+- Compatible with any OS that supports Java and has basic graphical capabilities
+- Requires **Java** installed on your system (e.g., Windows 10, macOS, Linux)
 
-* This game is made with javafx and it is compatible with any OS which has bit of graphics and java installed on it.
-* You'll need java on your system to run this program.
-* ex. Windows 10
+### Installation
+1. Download the latest release from [GitHub](#) or the provided link.
+2. Extract the folder (if applicable).
+3. Run the game using Java:
+   ```sh
+   java -jar TetrECS.jar
+   ```
+4. No additional modifications are needed for installation.
 
-### Installing
+## Features
+- **Classic Tetris Gameplay**: Experience the original Tetris mechanics with smooth gameplay.
+- **Single-player Mode**: Play against yourself and improve your high score.
+- **Future Multiplayer Support**: A new multiplayer server will be introduced soon.
+- **Fast-Paced and Optimized**: Improved speed and responsiveness for better playability.
 
-* You can install the program by clicking this link.
-* No modifications are needed as of now to the folder.
+## Controls
+- **Arrow Keys**: Move the tetromino left or right
+- **Down Arrow**: Accelerate the falling speed
+- **Up Arrow**: Rotate the tetromino
+- **Spacebar**: Instantly drop the tetromino
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Sarvesh Mina 
-ex. [@SarveshMina](https://www.linkedin.com/in/sarvesh-mina-705a81210/)
+- **Sarvesh Mina** - *Developer*  
+  GitHub: [@SarveshMina](https://github.com/SarveshMina)
 
 ## Version History
+- **0.1**
+  - Initial release
+  - Supports single-player mode
 
-* 0.1
-    * Initial Release
-    * Supports Single player game.
+## Roadmap
+- [ ] Add custom multiplayer server
+- [ ] Implement leaderboard system
+- [ ] Improve UI/UX for better user experience
+
+## License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- **Tetris** – Original game concept
+- JavaFX Community – For providing great UI development tools
+
+---
+Enjoy playing **TetrECS**! 🎮
+
